@@ -1,4 +1,4 @@
-# Bean_lol_dev
+# Discord League of Legends - Team match bot
 
 ## Requirements
 
